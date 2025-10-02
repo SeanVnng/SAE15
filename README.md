@@ -1,5 +1,7 @@
 README — Projet SAE15
+
 🇫🇷 Présentation
+
 Ce projet génère une page HTML récapitulant des incidents de cybersécurité à partir d’un fichier CSV.
 
 Il se compose de :
