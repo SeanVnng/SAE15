@@ -18,6 +18,7 @@ Utilisation
 python generate_site.py
 4. Le fichier cyber_operations_site.html sera créé ou mis à jour.
 5. Ouvrez ce fichier dans votre navigateur.
+
 Projet_SAE15/
 
 ├── cyber-operations-incidents.csv   # Données source
