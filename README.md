@@ -21,9 +21,9 @@ python generate_site.py
 
 Projet_SAE15/
 
-├── cyber-operations-incidents.csv   # Données source
+  ├── cyber-operations-incidents.csv   # Données source
 
-├── generate_site.py                 # Script de génération
+  ├── generate_site.py                 # Script de génération
 
-└── cyber_operations_site.html       # Sortie HTML
+  └── cyber_operations_site.html       # Sortie HTML
 
